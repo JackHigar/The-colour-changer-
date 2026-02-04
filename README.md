@@ -1,4 +1,4 @@
-# The-colour-changer-
+# The-colour-changer
 The colour changer , it is a simple html page with  with a change me button when we click that it simply change color 
 I am Jack HIGAR, I knowed javascript very little in past but not that much so I am relearning it
 people say that project based learning is the best path to do it and I am doing that only 
